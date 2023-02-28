@@ -53,12 +53,14 @@ body {
     padding: 20px 20px 0 10px;
     text-align: end;
     float: right;
+    align-self: flex-end
   }
   
   .received {
     background-color: #fafafa;
     border-top-left-radius: 500px;
     float: left;
+    align-self: flex-start
   }
   
   .sendMsg {
